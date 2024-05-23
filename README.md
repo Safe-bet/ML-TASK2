@@ -9,6 +9,7 @@ To increase datasize I used these 80 points to extrapolate more data. Before thi
 For training I didn't used DNN as it was not giving desired results, instead I used RandomForest and Linear Regressor models.
 
 Now to Run code I suggest to run in COLAB. To run we just need to execute blocks in sequential up to down order.
+![Alt text](https://github.com/Safe-bet/ML-TASK2/blob/main/Screenshot%202024-05-23%20213603.png)
 
 
 
